@@ -9,6 +9,7 @@ Can I solve it: Yes
 Method for solving: Finding the common side that all colors share
 
 Time Stamps (all recorded Dec 30th):
+
 7.31s
 
 9.86s
@@ -23,7 +24,7 @@ Time Stamps (all recorded Dec 30th):
 
 4.30s
 
-
+Average: 6.7 seconds
 
 
 </p> <br>
